@@ -1,4 +1,4 @@
-using HealthCheckAPI;
+global using HealthCheckAPI;
 
 var builder = WebApplication.CreateBuilder(args);
 
