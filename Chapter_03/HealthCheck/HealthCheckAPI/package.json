@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@angular/platform-browser": "^15.2.6"
+    "@angular/platform-browser": "^22.2.3"
   }
 }
